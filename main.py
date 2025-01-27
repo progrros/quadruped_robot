@@ -8,7 +8,6 @@ print("Sum:", sum_result)
 
 product_result = calculations.multiply_numbers(4, 5)
 print("Product:", product_result)
-print("Product:", product_result)
 
 servo.greet_user("allli")
 
